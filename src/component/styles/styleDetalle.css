@@ -1,0 +1,23 @@
+.imagen-detalle {
+    max-width: 450px;
+    max-height: 450px;
+}
+
+@media (max-width:768px) {
+    .imagen-detalle {
+        max-width: 300px;
+        max-height: 300px;
+    } 
+
+    .detalle-producto{
+        text-align: center;
+    }
+
+}
+
+
+@media (min-width: 798px) {
+    .titleClas {
+        font-size: 1vw;
+    }
+  }

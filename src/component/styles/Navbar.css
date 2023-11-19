@@ -1,0 +1,16 @@
+@media (max-width: 767px) {
+    .navbar-nav {
+      flex-direction: column;
+      align-items: center; /* Centra los elementos en dispositivos móviles */
+    }
+  
+    .nav-item {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 5px; /* Espacio entre elementos en dispositivos móviles */
+    }
+  
+    .buttons {
+      margin-top: 10px; /* Espacio entre la lista de navegación y los botones en dispositivos móviles */
+    }
+  }

@@ -1,0 +1,32 @@
+iframe {
+    width: 560px;
+    height: 315px;
+}
+
+.quien{
+    background-color: #4775B7;
+    color: white;
+    border-radius: 20px;
+}
+
+/* .video{
+    background-color: #4B7DBF;
+    color: white;
+} */
+
+.mision{
+background-color: #9DBF54;
+
+}
+
+.vision{
+background-color: #A7BF73;
+
+}
+
+@media  (max-width:768px) {
+    iframe{
+        width: 320px;
+        height: 260px;
+    }
+}
